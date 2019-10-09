@@ -1,0 +1,12 @@
+# Blender MTL File: 'None'
+# Material Count: 1
+
+newmtl mechmodel003:buddhaRobot07:blinn3SG
+Ns 96.078431
+Ka 0.294821 0.294821 0.294821
+Kd 0.000000 0.640000 0.446039
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.464000 0.323378
+Ni 1.000000
+d 1.000000
+illum 3
